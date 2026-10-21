@@ -1,0 +1,282 @@
+{
+  "video": "/Users/administrator/Desktop/archive/Normal_Videos_for_Event_Recognition/Normal_Videos_for_Event_Recognition/Normal_Videos_150_x264.mp4",
+  "duration_seconds": 28.82,
+  "assumption": "Features are mapped uniformly across the video duration.",
+  "warning": "Weakly supervised scores are not verified event boundaries.",
+  "segments": [
+    {
+      "segment": 5,
+      "start_seconds": 3.603,
+      "end_seconds": 4.503,
+      "anomaly_score": 0.062963
+    },
+    {
+      "segment": 6,
+      "start_seconds": 4.503,
+      "end_seconds": 5.404,
+      "anomaly_score": 0.066493
+    },
+    {
+      "segment": 7,
+      "start_seconds": 5.404,
+      "end_seconds": 6.304,
+      "anomaly_score": 0.065534
+    },
+    {
+      "segment": 17,
+      "start_seconds": 14.41,
+      "end_seconds": 15.311,
+      "anomaly_score": 0.059236
+    },
+    {
+      "segment": 18,
+      "start_seconds": 15.311,
+      "end_seconds": 16.211,
+      "anomaly_score": 0.055967
+    },
+    {
+      "segment": 26,
+      "start_seconds": 22.516,
+      "end_seconds": 23.416,
+      "anomaly_score": 0.066323
+    },
+    {
+      "segment": 27,
+      "start_seconds": 23.416,
+      "end_seconds": 24.317,
+      "anomaly_score": 0.068788
+    },
+    {
+      "segment": 28,
+      "start_seconds": 24.317,
+      "end_seconds": 25.218,
+      "anomaly_score": 0.051213
+    }
+  ],
+  "all_segment_scores": [
+    {
+      "segment": 1,
+      "start_seconds": 0.0,
+      "end_seconds": 0.901,
+      "anomaly_score": 0.053447,
+      "selected": false
+    },
+    {
+      "segment": 2,
+      "start_seconds": 0.901,
+      "end_seconds": 1.801,
+      "anomaly_score": 0.056442,
+      "selected": false
+    },
+    {
+      "segment": 3,
+      "start_seconds": 1.801,
+      "end_seconds": 2.702,
+      "anomaly_score": 0.055281,
+      "selected": false
+    },
+    {
+      "segment": 4,
+      "start_seconds": 2.702,
+      "end_seconds": 3.603,
+      "anomaly_score": 0.065179,
+      "selected": false
+    },
+    {
+      "segment": 5,
+      "start_seconds": 3.603,
+      "end_seconds": 4.503,
+      "anomaly_score": 0.062963,
+      "selected": true
+    },
+    {
+      "segment": 6,
+      "start_seconds": 4.503,
+      "end_seconds": 5.404,
+      "anomaly_score": 0.066493,
+      "selected": true
+    },
+    {
+      "segment": 7,
+      "start_seconds": 5.404,
+      "end_seconds": 6.304,
+      "anomaly_score": 0.065534,
+      "selected": true
+    },
+    {
+      "segment": 8,
+      "start_seconds": 6.304,
+      "end_seconds": 7.205,
+      "anomaly_score": 0.059327,
+      "selected": false
+    },
+    {
+      "segment": 9,
+      "start_seconds": 7.205,
+      "end_seconds": 8.106,
+      "anomaly_score": 0.054755,
+      "selected": false
+    },
+    {
+      "segment": 10,
+      "start_seconds": 8.106,
+      "end_seconds": 9.006,
+      "anomaly_score": 0.059636,
+      "selected": false
+    },
+    {
+      "segment": 11,
+      "start_seconds": 9.006,
+      "end_seconds": 9.907,
+      "anomaly_score": 0.059,
+      "selected": false
+    },
+    {
+      "segment": 12,
+      "start_seconds": 9.907,
+      "end_seconds": 10.808,
+      "anomaly_score": 0.053749,
+      "selected": false
+    },
+    {
+      "segment": 13,
+      "start_seconds": 10.808,
+      "end_seconds": 11.708,
+      "anomaly_score": 0.055946,
+      "selected": false
+    },
+    {
+      "segment": 14,
+      "start_seconds": 11.708,
+      "end_seconds": 12.609,
+      "anomaly_score": 0.057381,
+      "selected": false
+    },
+    {
+      "segment": 15,
+      "start_seconds": 12.609,
+      "end_seconds": 13.509,
+      "anomaly_score": 0.058753,
+      "selected": false
+    },
+    {
+      "segment": 16,
+      "start_seconds": 13.509,
+      "end_seconds": 14.41,
+      "anomaly_score": 0.055883,
+      "selected": false
+    },
+    {
+      "segment": 17,
+      "start_seconds": 14.41,
+      "end_seconds": 15.311,
+      "anomaly_score": 0.059236,
+      "selected": true
+    },
+    {
+      "segment": 18,
+      "start_seconds": 15.311,
+      "end_seconds": 16.211,
+      "anomaly_score": 0.055967,
+      "selected": true
+    },
+    {
+      "segment": 19,
+      "start_seconds": 16.211,
+      "end_seconds": 17.112,
+      "anomaly_score": 0.058765,
+      "selected": false
+    },
+    {
+      "segment": 20,
+      "start_seconds": 17.112,
+      "end_seconds": 18.012,
+      "anomaly_score": 0.056023,
+      "selected": false
+    },
+    {
+      "segment": 21,
+      "start_seconds": 18.012,
+      "end_seconds": 18.913,
+      "anomaly_score": 0.052031,
+      "selected": false
+    },
+    {
+      "segment": 22,
+      "start_seconds": 18.913,
+      "end_seconds": 19.814,
+      "anomaly_score": 0.057708,
+      "selected": false
+    },
+    {
+      "segment": 23,
+      "start_seconds": 19.814,
+      "end_seconds": 20.714,
+      "anomaly_score": 0.049568,
+      "selected": false
+    },
+    {
+      "segment": 24,
+      "start_seconds": 20.714,
+      "end_seconds": 21.615,
+      "anomaly_score": 0.051253,
+      "selected": false
+    },
+    {
+      "segment": 25,
+      "start_seconds": 21.615,
+      "end_seconds": 22.516,
+      "anomaly_score": 0.047528,
+      "selected": false
+    },
+    {
+      "segment": 26,
+      "start_seconds": 22.516,
+      "end_seconds": 23.416,
+      "anomaly_score": 0.066323,
+      "selected": true
+    },
+    {
+      "segment": 27,
+      "start_seconds": 23.416,
+      "end_seconds": 24.317,
+      "anomaly_score": 0.068788,
+      "selected": true
+    },
+    {
+      "segment": 28,
+      "start_seconds": 24.317,
+      "end_seconds": 25.218,
+      "anomaly_score": 0.051213,
+      "selected": true
+    },
+    {
+      "segment": 29,
+      "start_seconds": 25.218,
+      "end_seconds": 26.118,
+      "anomaly_score": 0.049171,
+      "selected": false
+    },
+    {
+      "segment": 30,
+      "start_seconds": 26.118,
+      "end_seconds": 27.019,
+      "anomaly_score": 0.047516,
+      "selected": false
+    },
+    {
+      "segment": 31,
+      "start_seconds": 27.019,
+      "end_seconds": 27.919,
+      "anomaly_score": 0.050635,
+      "selected": false
+    },
+    {
+      "segment": 32,
+      "start_seconds": 27.919,
+      "end_seconds": 28.82,
+      "anomaly_score": 0.057234,
+      "selected": false
+    }
+  ]
+}

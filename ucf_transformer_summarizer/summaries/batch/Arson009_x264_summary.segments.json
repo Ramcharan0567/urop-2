@@ -1,0 +1,282 @@
+{
+  "video": "/Users/administrator/Desktop/archive/Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Arson/Arson009_x264.mp4",
+  "duration_seconds": 24.92,
+  "assumption": "Features are mapped uniformly across the video duration.",
+  "warning": "Weakly supervised scores are not verified event boundaries.",
+  "segments": [
+    {
+      "segment": 12,
+      "start_seconds": 8.566,
+      "end_seconds": 9.345,
+      "anomaly_score": 0.921849
+    },
+    {
+      "segment": 13,
+      "start_seconds": 9.345,
+      "end_seconds": 10.124,
+      "anomaly_score": 0.928264
+    },
+    {
+      "segment": 14,
+      "start_seconds": 10.124,
+      "end_seconds": 10.902,
+      "anomaly_score": 0.928369
+    },
+    {
+      "segment": 22,
+      "start_seconds": 16.354,
+      "end_seconds": 17.133,
+      "anomaly_score": 0.924108
+    },
+    {
+      "segment": 23,
+      "start_seconds": 17.133,
+      "end_seconds": 17.911,
+      "anomaly_score": 0.921627
+    },
+    {
+      "segment": 28,
+      "start_seconds": 21.026,
+      "end_seconds": 21.805,
+      "anomaly_score": 0.922818
+    },
+    {
+      "segment": 29,
+      "start_seconds": 21.805,
+      "end_seconds": 22.584,
+      "anomaly_score": 0.925294
+    },
+    {
+      "segment": 30,
+      "start_seconds": 22.584,
+      "end_seconds": 23.363,
+      "anomaly_score": 0.925723
+    }
+  ],
+  "all_segment_scores": [
+    {
+      "segment": 1,
+      "start_seconds": 0.0,
+      "end_seconds": 0.779,
+      "anomaly_score": 0.899746,
+      "selected": false
+    },
+    {
+      "segment": 2,
+      "start_seconds": 0.779,
+      "end_seconds": 1.558,
+      "anomaly_score": 0.912608,
+      "selected": false
+    },
+    {
+      "segment": 3,
+      "start_seconds": 1.558,
+      "end_seconds": 2.336,
+      "anomaly_score": 0.915504,
+      "selected": false
+    },
+    {
+      "segment": 4,
+      "start_seconds": 2.336,
+      "end_seconds": 3.115,
+      "anomaly_score": 0.912049,
+      "selected": false
+    },
+    {
+      "segment": 5,
+      "start_seconds": 3.115,
+      "end_seconds": 3.894,
+      "anomaly_score": 0.906049,
+      "selected": false
+    },
+    {
+      "segment": 6,
+      "start_seconds": 3.894,
+      "end_seconds": 4.673,
+      "anomaly_score": 0.905754,
+      "selected": false
+    },
+    {
+      "segment": 7,
+      "start_seconds": 4.673,
+      "end_seconds": 5.451,
+      "anomaly_score": 0.907758,
+      "selected": false
+    },
+    {
+      "segment": 8,
+      "start_seconds": 5.451,
+      "end_seconds": 6.23,
+      "anomaly_score": 0.916111,
+      "selected": false
+    },
+    {
+      "segment": 9,
+      "start_seconds": 6.23,
+      "end_seconds": 7.009,
+      "anomaly_score": 0.914451,
+      "selected": false
+    },
+    {
+      "segment": 10,
+      "start_seconds": 7.009,
+      "end_seconds": 7.788,
+      "anomaly_score": 0.917342,
+      "selected": false
+    },
+    {
+      "segment": 11,
+      "start_seconds": 7.788,
+      "end_seconds": 8.566,
+      "anomaly_score": 0.92052,
+      "selected": false
+    },
+    {
+      "segment": 12,
+      "start_seconds": 8.566,
+      "end_seconds": 9.345,
+      "anomaly_score": 0.921849,
+      "selected": true
+    },
+    {
+      "segment": 13,
+      "start_seconds": 9.345,
+      "end_seconds": 10.124,
+      "anomaly_score": 0.928264,
+      "selected": true
+    },
+    {
+      "segment": 14,
+      "start_seconds": 10.124,
+      "end_seconds": 10.902,
+      "anomaly_score": 0.928369,
+      "selected": true
+    },
+    {
+      "segment": 15,
+      "start_seconds": 10.902,
+      "end_seconds": 11.681,
+      "anomaly_score": 0.915419,
+      "selected": false
+    },
+    {
+      "segment": 16,
+      "start_seconds": 11.681,
+      "end_seconds": 12.46,
+      "anomaly_score": 0.915962,
+      "selected": false
+    },
+    {
+      "segment": 17,
+      "start_seconds": 12.46,
+      "end_seconds": 13.239,
+      "anomaly_score": 0.917757,
+      "selected": false
+    },
+    {
+      "segment": 18,
+      "start_seconds": 13.239,
+      "end_seconds": 14.018,
+      "anomaly_score": 0.91582,
+      "selected": false
+    },
+    {
+      "segment": 19,
+      "start_seconds": 14.018,
+      "end_seconds": 14.796,
+      "anomaly_score": 0.920753,
+      "selected": false
+    },
+    {
+      "segment": 20,
+      "start_seconds": 14.796,
+      "end_seconds": 15.575,
+      "anomaly_score": 0.920062,
+      "selected": false
+    },
+    {
+      "segment": 21,
+      "start_seconds": 15.575,
+      "end_seconds": 16.354,
+      "anomaly_score": 0.920971,
+      "selected": false
+    },
+    {
+      "segment": 22,
+      "start_seconds": 16.354,
+      "end_seconds": 17.133,
+      "anomaly_score": 0.924108,
+      "selected": true
+    },
+    {
+      "segment": 23,
+      "start_seconds": 17.133,
+      "end_seconds": 17.911,
+      "anomaly_score": 0.921627,
+      "selected": true
+    },
+    {
+      "segment": 24,
+      "start_seconds": 17.911,
+      "end_seconds": 18.69,
+      "anomaly_score": 0.92104,
+      "selected": false
+    },
+    {
+      "segment": 25,
+      "start_seconds": 18.69,
+      "end_seconds": 19.469,
+      "anomaly_score": 0.915232,
+      "selected": false
+    },
+    {
+      "segment": 26,
+      "start_seconds": 19.469,
+      "end_seconds": 20.248,
+      "anomaly_score": 0.917031,
+      "selected": false
+    },
+    {
+      "segment": 27,
+      "start_seconds": 20.248,
+      "end_seconds": 21.026,
+      "anomaly_score": 0.917519,
+      "selected": false
+    },
+    {
+      "segment": 28,
+      "start_seconds": 21.026,
+      "end_seconds": 21.805,
+      "anomaly_score": 0.922818,
+      "selected": true
+    },
+    {
+      "segment": 29,
+      "start_seconds": 21.805,
+      "end_seconds": 22.584,
+      "anomaly_score": 0.925294,
+      "selected": true
+    },
+    {
+      "segment": 30,
+      "start_seconds": 22.584,
+      "end_seconds": 23.363,
+      "anomaly_score": 0.925723,
+      "selected": true
+    },
+    {
+      "segment": 31,
+      "start_seconds": 23.363,
+      "end_seconds": 24.141,
+      "anomaly_score": 0.921439,
+      "selected": false
+    },
+    {
+      "segment": 32,
+      "start_seconds": 24.141,
+      "end_seconds": 24.92,
+      "anomaly_score": 0.921152,
+      "selected": false
+    }
+  ]
+}
